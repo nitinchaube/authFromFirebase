@@ -1,12 +1,7 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-    apiKey: "AIzaSyD4B0mAzcNtADCFFwzxgjGaC29QYRXn6vk",
-    authDomain: "keosstall.firebaseapp.com",
-    projectId: "keosstall",
-    storageBucket: "keosstall.appspot.com",
-    messagingSenderId: "12786715356",
-    appId: "1:12786715356:web:524253a8cffffe0d054219"
+    //YOUR FIREBASE CODE ,WHICH U GOT WHILE CREATING UR PROJECT
   };
   firebase.initializeApp(firebaseConfig);
 
